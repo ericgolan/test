@@ -5,6 +5,8 @@
 # test 4
 
 # test 5
+# test 6
+# test 5
 
 git config --global --add user.name "Eric Golan"
 git config --global --add user.email "golan@harel.co.il"
